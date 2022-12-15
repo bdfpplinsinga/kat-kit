@@ -12,8 +12,8 @@ return [
     ]
   ],
   'panel' => [
-    'slug' => 'cp',
-    'language' => 'ru'
+    'slug' => 'panel',
+    'language' => 'en'
   ],
   'thumbs' => [
     'format' => 'webp',
